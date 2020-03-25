@@ -1,0 +1,2 @@
+# vReco
+vuepress-theme-reco
