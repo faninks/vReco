@@ -1,0 +1,46 @@
+Arguments: 
+  D:\Program Files\nodejs\node.exe D:\Program Files\nodejs\node_global\node_modules\yarn\bin\yarn.js add @vuepress-reco/vuepress-plugin-kan-ban-niang -D
+
+PATH: 
+  C:\Windows\system32;C:\Windows;C:\Program Files\Java\jdk1.8.0_231\bin;C:\Program Files\Java\jdk1.8.0_231\jre\bin;C:\Program Files\MySQL\MySQL Server 5.7\bin;D:\Program Files\apache-tomcat-7.0.96\bin;D:\Program Files\apache-maven-3.3.9\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;D:\Program Files\Git\cmd;C:\ProgramData\chocolatey\bin;D:\Program Files\nodejs\node_global;D:\Program Files\nodejs\;C:\Users\86520\AppData\Local\Microsoft\WindowsApps;C:\Users\86520\AppData\Roaming\npm;D:\Program Files\Microsoft VS Code\bin;C:\Users\86520\AppData\Local\GitHubDesktop\bin
+
+Yarn version: 
+  1.21.1
+
+Node version: 
+  12.14.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: ENOENT: no such file or directory, copyfile 'C:\Users\86520\AppData\Local\Yarn\Cache\v6\npm-ms-2.1.2-d09d1f357b443f493382a8eb3ccd183872ae6009-integrity\node_modules\ms\index.js' -> 'D:\WebstormProjects\vReco\node_modules\@babel\core\node_modules\ms\index.js'
+
+npm manifest: 
+  {
+    "name": "afternoon-grocery-store",
+    "version": "1.0.0",
+    "description": "recoluan's blog",
+    "main": "index.js",
+    "repository": "http://recoluan.gitlab.io",
+    "author": "reco_luan",
+    "license": "MIT",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "dev": "vuepress dev docs",
+      "build": "vuepress build docs"
+    },
+    "dependencies": {
+      "vuepress": "1.0.3",
+      "vuepress-theme-reco": "1.0.8-alpha.3",
+      "@vuepress/plugin-medium-zoom": "1.0.0-alpha.0",
+      "vuepress-plugin-flowchart": "1.4.3",
+      "@vuepress/plugin-pwa": "1.0.0-alpha.3"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

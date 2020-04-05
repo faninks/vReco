@@ -1,10 +1,10 @@
 ---
 home: true
-bgImage: '/banner.jpg'
+bgImage: '/my_banner.jpg'
 bgImageStyle: {
   height: '450px'
 }
-faceImage: '/head.png'
+faceImage: '/my_head.jpg'
 heroImage: /hero_write.png
 heroImageStyle: {
   maxHeight: '200px',
