@@ -44,8 +44,8 @@ module.exports = {
           {
             name: '장가갈 수 있을까',
             artist: '咖啡少年',
-            url: '/bgm/1.mp3',
-            cover: '/bgm/1.jpg'
+            url: '/vReco/bgm/1.mp3',
+            cover: '/vReco/bgm/1.jpg'
           },
           // 网络文件示例
           {
